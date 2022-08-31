@@ -1,0 +1,5 @@
+[hostname]
+disabled = true
+
+[nodejs]
+format = "via [node $version]($style) "
